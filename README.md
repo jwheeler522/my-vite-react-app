@@ -19,4 +19,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Dog-Gallery.git
+   git clone https://github.com/jwheeler522/my-vite-react-app.git
+
